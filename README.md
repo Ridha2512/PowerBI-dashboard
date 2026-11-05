@@ -1,6 +1,6 @@
-### **Flipkart Product and Business Performance Analysis**
+# **Flipkart Product and Business Performance Analysis**
 
-# Project Overview
+## Project Overview
 
 This project is an interactive Power BI dashboard designed to analyze Flipkart product and business performance.
 
@@ -10,7 +10,7 @@ Tools Used
 - Power Query
 - DAX
 
-# Dashboard Pages
+## Dashboard Pages
 
 1. Home
 2. Sales & Market Performance
@@ -18,7 +18,7 @@ Tools Used
 4. Regional & Seller Performance
 5. Business Insights & Strategy
 
-# Key Features
+## Key Features
 
 - Interactive KPI cards
 - Product performance analysis
@@ -26,11 +26,11 @@ Tools Used
 - Interactive slicers and filters
 - Business insights and visualizations
 
-# Objective
+## Objective
 
 To analyze product and business data and generate meaningful insights through interactive Power BI dashboards.
 
-# Created By
+## Created By
 
 Fathima Ridha K
 Flipkart Product and Business Performance Analysis
